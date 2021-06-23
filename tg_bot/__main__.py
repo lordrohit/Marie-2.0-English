@@ -21,7 +21,7 @@ PM_START_TEXT = """
 hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
 im a group manager bot maintained by  [this person](tg://user?id={}).
-Join @mechanicalblast for new movie and series.
+I am Maintained by @sk_shayuuu join @mechanicalblast for movies and series.
 
 This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
 you can create clone same like me..
